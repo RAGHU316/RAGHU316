@@ -1,4 +1,4 @@
-## Hi, I’m Raghav 👋
+## Hi, I’m Raghav 
 
 I am an **AI/ML and Data Science student** with a foundation in **Python, SQL, and C**.  
 I am currently learning data analysis and machine learning through the **Data Scientist program by Intellipaat, in collaboration with IIT Madras**.
